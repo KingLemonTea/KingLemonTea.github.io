@@ -1,18 +1,19 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>?</title>
+        <title></title>
         <link>http://example.org/</link>
-        <description>This</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 09 Apr 2021 14:42:04 &#43;0800</lastBuildDate>
+        <description>Follow the while rabbit.</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>kingkyleyuan@gmail.com (Kyle Yuan)</managingEditor>
+            <webMaster>kingkyleyuan@gmail.com (Kyle Yuan)</webMaster><lastBuildDate>Fri, 09 Apr 2021 14:42:04 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>http://example.org/posts/first_post/</link>
+    <link>http://example.org/first_post/</link>
     <pubDate>Fri, 09 Apr 2021 14:42:04 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/first_post/</guid>
+    <guid>http://example.org/first_post/</guid>
     <description><![CDATA[test test dsa
-def de() 12~
+1  def de()   12~
  es re  ]]></description>
 </item></channel>
 </rss>
